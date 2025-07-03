@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/LuisFernandoBS/LuisFernandoBS/main/banner.jpg" alt="Capa do README" width="100%" />
-</p>
+</p> -->
 <h1 align="center">👋 Olá! Eu sou Luis Fernando</h1>
 <h3 align="center">Desenvolvedor Web focado em performance, usabilidade e boas práticas</h3>
 
